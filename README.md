@@ -1,6 +1,6 @@
 # Deep Learning Exercises
 
-This is a set of exercises about Deep Learning. These exercises will help you better familiarize with PyTorch and building models of fully connected networks, CNN, graph neural netowrks, attention mechanism and reinforcement learning.
+This is a set of exercises about Deep Learning. These exercises will help you better familiarize with PyTorch and building models of fully connected networks, CNN, graph neural networks, attention mechanism and reinforcement learning.
 
 The level of difficulty goes from 1 to 7 (1 being the easiest, 7 the hardest):
 
@@ -26,7 +26,7 @@ In this exercise you will have a main Jupyter notebook and some .py files (where
 
 ### Homework 2
 
-<b>Part 1</b>: We want to use CNN to classify galaxies. We are going to take one of the pertained models and we will use that to build a new model.
+<b>Part 1</b>: We want to use CNN to classify galaxies. We are going to take one of the pretrained models and we will use that to build a new model.
 
 <b>Part 2</b>: We want to build a CNN in which both input and output are images. Not a classifier anymore. This to start opening up the idea that output doesn't have to be just an array. This homework is more related on building the model.
 
@@ -38,7 +38,7 @@ In this exercise you will have a main Jupyter notebook and some .py files (where
 
 ### Homework 4: Graph neural network and attention mechanism
 
-You will be using a GNN to build boxes around different cluster of data. This exercise will allow you to get familiar with key, query and value.
+You will be using a GNN to build boxes around different clusters of data. This exercise will allow you to get familiar with the concepts of “key, query and value.”
 
 ### Homework 5: RL for atari game
 
