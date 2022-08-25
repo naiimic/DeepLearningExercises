@@ -1,8 +1,8 @@
-# Practical Deep Learning
+# Deep Learning Exercises
 
 This is a set of exercises about Deep Learning. These exercises will help you better familiarize with PyTorch and building models of fully connected networks, CNN, graph neural netowrks, attention mechanism and reinforcement learning.
 
-The level of difficulty goes from 1 to 7 (1 being the easiest, 7 the hardest)
+The level of difficulty goes from 1 to 7 (1 being the easiest, 7 the hardest):
 
 <ul>
   <li>Homework 1: FC network (1)</li>
