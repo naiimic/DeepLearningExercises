@@ -2,7 +2,7 @@
 
 This is a set of exercises about Deep Learning. They are intented to people that have played with AI in the past and would like to improve their expertise and, maybe, apply neural netowrks in their research.
 
-These exercises will help you better familiarize with PyTorch and building models of fully connected networks (FC), convolutional neural networks (CNN), graph neural networks (GNN), attention mechanism and reinforcement learning (RL).
+These exercises will help you better familiarize with PyTorch, fully connected networks (FC), convolutional neural networks (CNN), graph neural networks (GNN), attention mechanism and reinforcement learning (RL).
 
 A good introduction to these concepts can be found <a href="http://cs231n.stanford.edu/">here</a> and <a href="http://introtodeeplearning.com/">here</a>.
 
