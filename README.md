@@ -33,7 +33,7 @@ In this exercise you will have a main Jupyter notebook and some .py files (where
 
 <b>Part 1</b>: We want to use CNN to classify galaxies. We are going to take one of the pretrained models and we will use that to build a new model.
 
-<b>Part 2</b>: We want to build a CNN in which both input and output are images. Not a classifier anymore. This to start opening up the idea that output doesn't have to be just an array. This homework is more related on building the model.
+<b>Part 2</b>: We want to build a CNN in which both input and output are images. Not a classifier anymore. This to start opening up the idea that output doesn't have to be just an array.
 
 ### Exercise 3: Graph neural network
 
