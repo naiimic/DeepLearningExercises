@@ -3,7 +3,7 @@ import sys
 
 from evaluate import evaluate_on_dataset
 
-def test_homework():
+def test_exercise():
 
     if not os.path.exists('validation.bin'):
         os.system('wget https://www.dropbox.com/s/dz5prcyv4lgx779/validation.bin')
