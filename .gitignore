@@ -142,3 +142,6 @@ dmypy.json
 
 # Temporary model checkpoints prior to gs bucket transfer
 gs:/
+
+#No uploading Dataset
+Dataset/
